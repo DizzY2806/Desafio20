@@ -1,7 +1,16 @@
 <html>
     <body>
+        <head>
+
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Desafio pg20</title>
+            <link rel="stylesheet" href="Css1.css">
+        
+        </head>
         
         <div>
+            <br>
             <h1>2. Qual o benefício é visto em uma Pré-compra de produtos</h1>
             <p>Com o pré-venda, as vendas se tornam mais eficientes, a previsão de faturamento é mais precisa, e o ciclo de vendas tende a ficar mais rápido. Antes do surgimento desse conceito,
                 existia no máximo um backoffice responsável por agendar as visitas e reuniões dos vendedores.</p>

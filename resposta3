@@ -1,9 +1,17 @@
 <html>
     <body>
+        <head>
+
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Desafio pg20</title>
+            <link rel="stylesheet" href="Css1.css">
+        
+        </head>
         
         <div>
-            <h1>3. Quais são as infrações mais comuns das normas de defesa do consumidor</h1>
-            <p>1.São vendas casadas! È comprar um produto e o vendedor lhe ofereceu doces no lugar do troco.
-                2.Serviço sem orçamento. Neste caso, a violação se dá através da infração ao direito à informação.
-                3.Envio de produto para o cliente sem a autorização.</p>
+           <br>
+            <h1>1. Qual o perfil do consumidor on-line</h1>
+            <p>O perfil do consumidor online pode variar, sendo classificado e influenciado por questões culturais, sociais e econômicas, além da idade. Esses consumidores são divididos em 
+                três principais grupos: ocasionais, emergentes e digitais.</p>
 </html>
